@@ -12,3 +12,4 @@ let longest = str.split('').reduce()
 console.log(longest)
 
 console.log("welcome to india")
+console.log("hello dosto")
