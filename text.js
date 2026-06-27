@@ -9,3 +9,4 @@
 let str = 'Aditya kumar maurya knowkedge '
 
 let longest = str.split('').reduce()
+console.log(longest)
